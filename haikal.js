@@ -4,11 +4,11 @@
 
 // Basenoxa Hw Mods : Copyan Dari Base Dika
 
-› Create Bynoxa
-› Base Orinoxa
+› Create Byangga
+› Base Oriangga
 › Copyan Base Dika Hisoka Morou
 
-🌷 KALAU MAU RENAME TARO CREDITS GUA :noxa */
+🌷 KALAU MAU RENAME TARO CREDITS GUA :angga */
 
 //=================================================//
 require('./hwkal')
@@ -333,7 +333,7 @@ ydd = `Hallo Aku haikal`
 for (let i = 0; i < jumlah; i++) {
 var pollCreation = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "pollCreationMessage": {
-"name": "HALO 👋 SAYA BOTnoxa",
+"name": "HALO 👋 SAYA BOTangga",
 "options": [
 {
 "optionName": "KATANYA WA KEBAL"
@@ -348,7 +348,7 @@ var pollCreation = generateWAMessageFromContent(m.chat, proto.Message.fromObject
 "optionName": "KATANYA KEBAL"
 },
 {
-"optionName": "SALAM BROTHER BYnoxa"
+"optionName": "SALAM BROTHER BYanggaa"
 }
 ],
 "selectableOptionsCount": 5
@@ -372,7 +372,7 @@ function _0x348d(_0x50ce67,_0x2397a1){var _0x15bb19=_0x15bb();return _0x348d=fun
 }
 break
 //=================================================//
-case 'noxatroli2': {
+case 'anggatroli2': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return reply(`Jumlahnya?`)
@@ -397,7 +397,7 @@ haikal.relayMessage(m.chat, order.message, { messageId: order.key.id })
 }
 }
 break
-case 'noxatroli3': {
+case 'anggatroli3': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return reply(`Jumlahnya?`)
@@ -408,7 +408,7 @@ function _0x4279(){const _0x4c3178=['fromObject','Message','1847261837216262824'
 }
 break
 //=================================================//
-case 'noxasantet': {
+case 'anggasantet': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length < 1) return m.reply(`*Syntax Error!*\n\nUse : ${command} nomor target|amount spam|timer\nExample : ${command} 62888s.whatsapp.net|1|10s\n\n\ns = Second/Detik\n\n`)
@@ -467,7 +467,7 @@ haikal.sendMessage(m.chat, {document: yy, mimetype: 'application/octet-stream', 
 }
 break
 //=================================================//
-case 'noxadaca': {
+case 'anggadaca': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -480,7 +480,7 @@ for (let i = 0; i < jumlah; i++) {
  }
  break
 //=================================================//
-case 'noxadocu': {
+case 'anggadocu': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -532,7 +532,7 @@ haikal.relayMessage(m.chat, document.message, { messageId: document.key.id })
 }
 break
 //=================================================//
-case 'noxavirtext1': {
+case 'anggavirtext1': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Jumlahnya?`)
@@ -542,7 +542,7 @@ haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/c2fda8b471c8
 }
 }
 break
-case 'noxavirtext2': {
+case 'anggavirtext2': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Jumlahnya?`)
@@ -552,7 +552,7 @@ haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/c2fda8b471c8
 }
 }
 break
-case 'noxavirtext3': {
+case 'anggavirtext3': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Jumlahnya?`)
@@ -562,7 +562,7 @@ haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/c2fda8b471c8
 }
 }
 break
-case 'noxavirtext4': {
+case 'anggavirtext4': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Jumlahnya?`)
@@ -572,7 +572,7 @@ haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/c2fda8b471c8
 }
 }
 break
-case 'noxavirtext5': {
+case 'anggavirtext5': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Jumlahnya?`)
@@ -582,7 +582,7 @@ haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/c2fda8b471c8
 }
 }
 break
-case 'noxavirtext6': {
+case 'anggavirtext6': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Jumlahnya?`)
@@ -592,7 +592,7 @@ haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/c2fda8b471c8
 }
 }
 break
-case 'noxavirtext7': {
+case 'anggavirtext7': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Jumlahnya?`)
@@ -602,7 +602,7 @@ haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/c2fda8b471c8
 }
 }
 break
-case 'noxavirtext8': {
+case 'anggavirtext8': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Jumlahnya?`)
@@ -612,7 +612,7 @@ haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/c2fda8b471c8
 }
 }
 break
-case 'noxavirtext9': {
+case 'anggavirtext9': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Jumlahnya?`)
@@ -622,7 +622,7 @@ haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/c2fda8b471c8
 }
 }
 break
-case 'noxavirtext10': {
+case 'anggavirtext10': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Jumlahnya?`)
@@ -633,7 +633,7 @@ haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/c2fda8b471c8
 }
 break
 //=================================================//
-case 'noxabug1': {
+case 'anggabug1': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -659,7 +659,7 @@ haikal.relayMessage(m.chat, audio.message, { messageId: audio.key.id })
 }
 break
 //=================================================//
-case 'noxabug2': {
+case 'anggabug2': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -688,7 +688,7 @@ haikal.relayMessage(m.chat, image.message, { messageId: image.key.id })
 }
 break
 //=================================================//
-case 'noxabug3': {
+case 'anggabug3': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -715,7 +715,7 @@ haikal.relayMessage(m.chat, document.message, { messageId: document.key.id })
 }
 break
 //=================================================//
-case 'noxabug4': {
+case 'anggabug4': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -736,7 +736,7 @@ haikal.relayMessage(m.chat, extended.message, { messageId: extended.key.id })
 }
 break
 //=================================================//
-case 'noxabug5': {
+case 'anggabug5': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -760,7 +760,7 @@ haikal.relayMessage(m.chat, sticker.message, { messageId: sticker.key.id })
 }
 }
 break
-case 'noxabug5': {
+case 'anggabug5': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -785,7 +785,7 @@ haikal.relayMessage(m.chat, sticker.message, { messageId: sticker.key.id })
 }
 break
 
-case 'noxadelay': {
+case 'anggadelay': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -797,7 +797,7 @@ var _0x39080c=_0x4b8f;function _0x3b16(){var _0x4c72fa=['chat','9940068BVkoHm','
 }
 break
 //=================================================//
-case 'noxabug6': {
+case 'anggabug6': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -820,7 +820,7 @@ haikal.relayMessage(m.chat, extended.message, { messageId: extended.key.id })
 }
 break
 //=================================================//
-case 'noxabug7': {
+case 'anggabug7': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -904,7 +904,7 @@ haikal.relayMessage(m.chat, groupInvite.message, { messageId: groupInvite.key.id
 }
 break
 //=================================================//
-case 'noxatroli': {
+case 'anggatroli': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -997,7 +997,7 @@ m.reply(tekteka)
 }
 break
 //=================================================//
-case 'noxajagoan' : {
+case 'anggajagoan' : {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -1016,7 +1016,7 @@ thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg',
 break
 //=================================================//
 /*BUG WACAP */
-case 'noxaskuy' : {
+case 'anggaskuy' : {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 Pe = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : text.replace(/[^0-9]/g,'')+"@s.whatsapp.net"
@@ -1041,7 +1041,7 @@ await sleep(20)
 break
 //=================================================//
 /*BUG WACAP */
-case 'gasnoxa' : {
+case 'gasangga' : {
 if (isBan) throw sticBanLu(from)
 if (!isCreator) return
 Pe = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : text.replace(/[^0-9]/g,'')+"@g.us"
@@ -1080,7 +1080,7 @@ function _0x128b(_0x4b9866,_0x371baa){var _0x50e42b=_0x50e4();return _0x128b=fun
 }
 }
 break
-case '🌷':{
+case '🌷': case 'angga': case '😭': case '🍌': case '😂': case '🗿': case '😎':{
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -1102,7 +1102,7 @@ m.reply(`${m.pushName} Hello Saya Bot Hw Mods${text ? ': ' + text : ''}`)
 }
 break
 //=================================================//
-case 'noxastik':{
+case 'anggastik':{
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -1146,7 +1146,7 @@ m.reply(mess.wait)
 haikal.sendMessage(m.chat, { video: krt, mimetype: 'video/mp4', fileName: `${command}.mp4`, caption: `${bugsw}` }, { quoted:m })
 break
 //=================================================//
-case 'noxabugie':{
+case 'anggabugie':{
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -1166,7 +1166,7 @@ participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "@s.whatsapp.net" } : {
 "fileLength": "64455",
 "pageCount": 1,
 "mediaKey": "P32GszzU5piUZ5HKluLD5h/TZzubVJ7lCAd1PIz3Qb0=",
-"fileName": `Noxa${ngazap(prefix)}`,
+"fileName": `anggaa${ngazap(prefix)}`,
 "fileEncSha256": "ybdZlRjhY+aXtytT0G2HHN4iKWCFisG2W69AVPLg5yk=",
 }
 }
@@ -1256,7 +1256,7 @@ haikal.sendMessage(m.chat, buttonMessage)
 }
  break*/
 //=================================================//
-case 'noxatag': {
+case 'anggatag': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (!m.isGroup) throw groupon(from)
@@ -1277,7 +1277,7 @@ haikal.sendMessage(m.chat, { document: anuin, mimetype: 'application/octet-strea
 }
 break
 //=================================================//
-case 'noxatod': {
+case 'anggatod': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -1303,7 +1303,7 @@ haikal.sendMessage(m.chat, { video: dwhe, mimetype: 'video/mp4', fileName: `${co
 }
 break
 //=================================================//
-case 'noxasange': {
+case 'anggasange': {
 if (isBan) throw sticBanLu(from)
 if (!m.isGroup) return m.reply(mess.group)
 if (!isBotAdmins) return m.reply(mess.botAdmin)
@@ -1451,7 +1451,7 @@ for (let i = 0; i < jumlah; i++) {
  }
  break
 //=================================================//
-case 'noxahi': {
+case 'anggahi': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -1464,7 +1464,7 @@ for (let i = 0; i < jumlah; i++) {
  }
  break
 //=================================================//
-case 'noxaha': {
+case 'anggaha': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -1477,7 +1477,7 @@ for (let i = 0; i < jumlah; i++) {
  }
  break
 //=================================================//
-case 'noxahe': {
+case 'anggahe': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -1490,7 +1490,7 @@ for (let i = 0; i < jumlah; i++) {
  }
  break
 //=================================================//
-case 'noxaba': {
+case 'anggaba': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -1503,7 +1503,7 @@ for (let i = 0; i < jumlah; i++) {
  }
  break
 //=================================================//
-case 'noxabe': {
+case 'anggabe': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -1516,7 +1516,7 @@ for (let i = 0; i < jumlah; i++) {
  }
  break
 //=================================================//
-case 'noxabu': {
+case 'anggabu': {
 if (isBan) throw sticBanLu(from)
 if (!isCreator) return
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -1529,7 +1529,7 @@ for (let i = 0; i < jumlah; i++) {
  }
  break
 //=================================================//
-case 'noxabi': {
+case 'anggabi': {
 if (isBan) throw sticBanLu(from)
 if (!isCreator) return
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -1542,7 +1542,7 @@ for (let i = 0; i < jumlah; i++) {
  }
  break
 //=================================================//
-case 'noxaca': {
+case 'anggaca': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -1555,7 +1555,7 @@ for (let i = 0; i < jumlah; i++) {
  }
  break
 //=================================================//
-case 'noxaci': {
+case 'anggaci': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -1568,7 +1568,7 @@ for (let i = 0; i < jumlah; i++) {
  }
  break
 //=================================================//
-case 'noxacu': {
+case 'anggacu': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -1581,7 +1581,7 @@ for (let i = 0; i < jumlah; i++) {
  }
  break
 //=================================================//
-case 'noxaco': {
+case 'anggaco': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
@@ -4186,14 +4186,14 @@ break*/
 case 'menu': {
 if (isBan) throw sticBanLu(from)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `
-◎ ۝ＮＯＸＡ۝◎
+◎ ۝A N G G A۝◎
 ◎ 𝐋𝐢𝐛 : 𝐌𝐮𝐥𝐭𝐢-𝐃𝐞𝐯𝐢𝐜𝐞
 ╔════[ AUTO ]══════⊱
 ╠➤ 𝐀𝐮𝐭𝐨𝐤𝐞𝐭𝐢𝐤 𝐨𝐧 / 𝐨𝐟𝐟
 ╠➤ 𝐀𝐮𝐭𝐨𝐯𝐧 𝐎𝐧 / 𝐎𝐟𝐟
 ╠➤ 𝐀𝐮𝐭𝐨𝐚𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐨𝐧 / 𝐨𝐟𝐟
 ╠➤ 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐨𝐧 / 𝐨𝐟𝐟 [ Crash ]
-╚════[noxa ]══════⊱
+╚════[𝐚𝐧𝐠𝐠𝐚 ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 ╔══[ MENU ]══════⊱
 ╠➤ 𝐁𝐮𝐠𝐦𝐞𝐧𝐮
@@ -4213,15 +4213,13 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤ 𝐆𝐫𝐨𝐮𝐩𝐦𝐞𝐧𝐮
 ╠➤ 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐦𝐞𝐧𝐮
 ╠➤ 𝐎𝐰𝐧𝐞𝐫𝐦𝐞𝐧𝐮
-╚════[noxa ]══════⊱
+╚════[𝐚𝐧𝐠𝐠𝐚 ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Base Script
-©Noxa
-۝ＮＯＸＡ۝`, contextInfo:{"externalAdReply": {"title": `SCnoxa`,"body": `Selamat ${salam} kak ${pushname}`,
+©⸸𝐚𝐧𝐠𝐠𝐚⸸
+۝⸸𝐚𝐧𝐠𝐠𝐚⸸۝`, contextInfo:{"externalAdReply": {"title": `SC𝐚𝐧𝐠𝐠𝐚`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://youtube.com/c/HwModsWa857`,
-thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 }
 }}, { quoted:m})
 }
@@ -4238,92 +4236,98 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ^𝐀𝐤𝐬𝐞𝐬 𝐕𝐢𝐩 𝐁𝐮𝐠^
 ^𝐇𝐮𝐛 : ${botname}^
 ╔════[ 𝐕𝐈𝐏 ]═══════⊱
+╠➤😂 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤😎 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤🗿 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤🍌 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ] 
+╠➤😭 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ] 
 ╠➤🌷 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ] #𝐔𝐩𝐝𝐚𝐭𝐞 𝐁𝐚𝐢𝐥𝐞𝐲𝐬
 ╠➤🔥 𝟔𝟐𝟖𝐱𝐱𝐱|𝟓|𝟓 #𝐔𝐩𝐝𝐚𝐭𝐞 𝐁𝐚𝐢𝐥𝐞𝐲𝐬
-╚════[noxa ]══════⊱
+╠➤𝐚𝐧𝐠𝐠𝐚 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ] 
+╚════[⸸𝐚𝐧𝐠𝐠𝐚⸸ ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 ╔════[ 𝐁𝐔𝐆 𝐒𝐏𝐄𝐂𝐈𝐀𝐋 ]══════⊱
 ╠➤𝐚𝐟𝐤 { 𝐤𝐚𝐬𝐢𝐡 𝐫𝐞𝐚𝐜𝐭𝐢𝐨𝐧𝐬 }
-╠➤𝐧𝐨𝐱𝐚𝐠𝐡𝐨𝐢𝐛 [ 𝐨𝐧 / 𝐨𝐟𝐟 ]
-╠➤𝐧𝐨𝐱𝐚𝐣𝐚𝐠𝐨𝐚𝐧 [ 𝐫𝐞𝐩𝐥𝐲 𝐭𝐚𝐫𝐠𝐞𝐭 ]
-╠➤𝐧𝐨𝐱𝐚𝐬𝐚𝐧𝐠𝐞 [ 𝐇𝐚𝐫𝐮𝐬 𝐌𝐞𝐧𝐣𝐚𝐝𝐢 𝐀𝐝𝐦𝐢𝐧 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐠𝐡𝐨𝐢𝐛 [ 𝐨𝐧 / 𝐨𝐟𝐟 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐣𝐚𝐠𝐨𝐚𝐧 [ 𝐫𝐞𝐩𝐥𝐲 𝐭𝐚𝐫𝐠𝐞𝐭 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐬𝐚𝐧𝐠𝐞 [ 𝐇𝐚𝐫𝐮𝐬 𝐌𝐞𝐧𝐣𝐚𝐝𝐢 𝐀𝐝𝐦𝐢𝐧 ]
 ╠➤𝐛𝐮𝐠𝐭𝐢𝐤𝐭𝐨𝐤 [ 𝐋𝐢𝐧𝐤 ] - 𝐁𝐮𝐠 𝐒𝐰
 ╠➤𝐣𝐚𝐝𝐢𝐤𝐚𝐭𝐚𝐥𝐨𝐠 [ 𝐫𝐞𝐩𝐥𝐲 𝐬𝐭𝐢𝐜𝐤𝐞𝐫 ] 𝐣𝐮𝐦𝐥𝐚𝐡
-╚════[noxa ]══════⊱
+╚════[⸸𝐚𝐧𝐠𝐠𝐚⸸ ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 ╔══════[ 𝐁𝐔𝐆 𝐓𝐀𝐑𝐆𝐄𝐓 ]══════⊱
-╠➤𝐧𝐨𝐱𝐚𝐬𝐤𝐮𝐲 𝟔𝟐𝟖𝐱𝐱𝐱
-╠➤𝐧𝐨𝐱𝐚𝐬𝐚𝐧𝐭𝐞𝐭 𝟔𝟐𝟖𝐱𝐱𝐱@𝐬.𝐰𝐡𝐚𝐭𝐬𝐚𝐩𝐩.𝐧𝐞𝐭|𝟏𝟎|𝟏𝟎𝐬
+╠➤𝐚𝐧𝐠𝐠𝐚𝐬𝐤𝐮𝐲 𝟔𝟐𝟖𝐱𝐱𝐱
+╠➤𝐚𝐧𝐠𝐠𝐚𝐬𝐚𝐧𝐭𝐞𝐭 𝟔𝟐𝟖𝐱𝐱𝐱@𝐬.𝐰𝐡𝐚𝐭𝐬𝐚𝐩𝐩.𝐧𝐞𝐭|𝟏𝟎|𝟏𝟎𝐬
 ╠➤𝐜𝐚𝐭𝐚𝐥𝐨𝐠𝐩𝐜 𝟔𝟐𝟖𝐱𝐱𝐱@𝐬.𝐰𝐡𝐚𝐭𝐬𝐚𝐩𝐩.𝐧𝐞𝐭|𝟏𝟎|𝟏𝟎𝐬
-╚════[noxa ]══════⊱
+╚════[⸸𝐚𝐧𝐠𝐠𝐚⸸ ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 𝐊𝐞𝐭𝐢𝐤 > 𝐦.𝐜𝐡𝐚𝐭 ( 𝐝𝐢 𝐠𝐫𝐨𝐮𝐩 𝐝𝐮𝐥𝐮🌷)
 ╔══════[ 𝐁𝐔𝐆 𝐆𝐑𝐎𝐔𝐏 ]══════⊱
-╠➤𝐠𝐚𝐬𝐧𝐨𝐱𝐚 𝟏𝟏𝟐𝟔𝟕𝟒𝟒𝟒𝟖𝐱𝐱𝐱
-╠➤𝐧𝐨𝐱𝐚𝐬𝐚𝐧𝐭𝐞𝐭𝐠𝐜  𝟏𝟐𝟑𝟕𝟖𝟗𝟏𝐱𝐱𝐱𝐱@𝐠.𝐮𝐬|𝟏𝟎|𝟏𝟎𝐬
+╠➤𝐠𝐚𝐬𝐚𝐧𝐠𝐠𝐚 𝟏𝟏𝟐𝟔𝟕𝟒𝟒𝟒𝟖𝐱𝐱𝐱
+╠➤𝐚𝐧𝐠𝐠𝐚𝐬𝐚𝐧𝐭𝐞𝐭𝐠𝐜  𝟏𝟐𝟑𝟕𝟖𝟗𝟏𝐱𝐱𝐱𝐱@𝐠.𝐮𝐬|𝟏𝟎|𝟏𝟎𝐬
 ╠➤𝐜𝐚𝐭𝐚𝐥𝐨𝐠𝐠𝐜 𝟏𝟐𝟑𝟕𝟖𝟗𝟏𝐱𝐱𝐱𝐱@𝐠.𝐮𝐬|𝟏𝟎|𝟏𝟎𝐬
-╚════[noxa ]══════⊱
+╚════[⸸𝐚𝐧𝐠𝐠𝐚⸸ ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 ╔══════[ 𝐕𝐈𝐑𝐓𝐄𝐗𝐓 ]══════⊱
-╠➤𝐧𝐨𝐱𝐚𝐯𝐢𝐫𝐭𝐞𝐱𝐭𝟏 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐯𝐢𝐫𝐭𝐞𝐱𝐭𝟐 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐯𝐢𝐫𝐭𝐞𝐱𝐭𝟑 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐯𝐢𝐫𝐭𝐞𝐱𝐭𝟒 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐯𝐢𝐫𝐭𝐞𝐱𝐭𝟓 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐯𝐢𝐫𝐭𝐞𝐱𝐭𝟔 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐯𝐢𝐫𝐭𝐞𝐱𝐭𝟕 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐯𝐢𝐫𝐭𝐞𝐱𝐭𝟖 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐯𝐢𝐫𝐭𝐞𝐱𝐭𝟗 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐯𝐢𝐫𝐭𝐞𝐱𝐭𝟏𝟎 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╚════[noxa ]══════⊱
+╠➤𝐚𝐧𝐠𝐠𝐚𝐯𝐢𝐫𝐭𝐞𝐱𝐭𝟏 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐯𝐢𝐫𝐭𝐞𝐱𝐭𝟐 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐯𝐢𝐫𝐭𝐞𝐱𝐭𝟑 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐯𝐢𝐫𝐭𝐞𝐱𝐭𝟒 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐯𝐢𝐫𝐭𝐞𝐱𝐭𝟓 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐯𝐢𝐫𝐭𝐞𝐱𝐭𝟔 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐯𝐢𝐫𝐭𝐞𝐱𝐭𝟕 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐯𝐢𝐫𝐭𝐞𝐱𝐭𝟖 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐯𝐢𝐫𝐭𝐞𝐱𝐭𝟗 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐯𝐢𝐫𝐭𝐞𝐱𝐭𝟏𝟎 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╚════[𝐚𝐧𝐠𝐠𝐚 ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 ╔══════[ 𝐁𝐔𝐆 𝐒𝐏𝐀𝐌 ]══════⊱
-╠➤𝐧𝐨𝐱𝐚𝐝𝐞𝐥𝐚𝐲 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐬𝐭𝐢𝐤 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐛𝐮𝐠𝐢𝐞 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐝𝐞𝐥𝐚𝐲 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐬𝐭𝐢𝐤 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐛𝐮𝐠𝐢𝐞 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
 ╠➤𝐛𝐮𝐠𝐥𝐨𝐤𝐚𝐬 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐭𝐨𝐝 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐛𝐨𝐤𝐞𝐩 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐭𝐨𝐝 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐛𝐨𝐤𝐞𝐩 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
 ╠➤𝐛𝐮𝐠𝐢𝐧𝐯𝐢𝐭𝐞 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ] 𝐏𝐜
-╠➤𝐧𝐨𝐱𝐚𝐡𝐚 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐡𝐢 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐡𝐮 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐡𝐞 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐛𝐚 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐛𝐞 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐛𝐮 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐛𝐢 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐜𝐚 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐜𝐢 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐜𝐮 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐜𝐨 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐛𝐮𝐠𝟏 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐛𝐮𝐠𝟐 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐛𝐮𝐠𝟑 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐛𝐮𝐠𝟒 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐛𝐮𝐠𝟓 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐛𝐮𝐠𝟔 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐛𝐮𝐠𝟕 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐩𝐨𝐥𝐥 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐭𝐚𝐠 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐡𝐚 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐡𝐢 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐡𝐮 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐡𝐞 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐛𝐚 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐛𝐞 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐛𝐮 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐛𝐢 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐜𝐚 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐜𝐢 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐜𝐮 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐜𝐨 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐛𝐮𝐠𝟏 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐛𝐮𝐠𝟐 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐛𝐮𝐠𝟑 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐛𝐮𝐠𝟒 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐛𝐮𝐠𝟓 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐛𝐮𝐠𝟔 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐛𝐮𝐠𝟕 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐩𝐨𝐥𝐥 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐭𝐚𝐠 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
 ╠➤𝐢𝐧𝐢𝐛𝐮𝐠 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
 ╠➤𝐡𝐢𝐲𝐚 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
 ╠➤𝐥𝐨𝐤𝐚𝐬 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
 ╠➤𝐜𝐚𝐭𝐚𝐥𝐨𝐠 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐝𝐨𝐜𝐮 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐝𝐚𝐜𝐚 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐝𝐨𝐜𝐮 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐝𝐚𝐜𝐚 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
 ╠➤𝐝𝐮𝐜 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
 ╠➤𝐝𝐮𝐜𝐮 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐭𝐫𝐨𝐥𝐢 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐭𝐫𝐨𝐥𝐢𝟐 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╠➤𝐧𝐨𝐱𝐚𝐭𝐫𝐨𝐥𝐢𝟑 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐭𝐫𝐨𝐥𝐢 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐭𝐫𝐨𝐥𝐢𝟐 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
+╠➤𝐚𝐧𝐠𝐠𝐚𝐭𝐫𝐨𝐥𝐢𝟑 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
 ╠➤𝐬𝐩𝐚𝐦 [ 𝐑𝐞𝐩𝐥𝐲 𝐏𝐞𝐬𝐚𝐧 ]
-╚════[noxa ]══════⊱
+╚════[⸸𝐚𝐧𝐠𝐠𝐚⸸ ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 ╔══════[ 𝐉𝐀𝐃𝐈 𝐁𝐔𝐆 ]══════⊱
@@ -4332,7 +4336,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╠➤𝐣𝐚𝐝𝐢𝐛𝐮𝐠𝟑 [ 𝐑𝐞𝐩𝐥𝐲 𝐀𝐮𝐝𝐢𝐨 𝐉𝐚𝐝𝐢 𝐁𝐮𝐠 𝐕𝐧 ]
 ╠➤𝐣𝐚𝐝𝐢𝐛𝐮𝐠𝟒 [ 𝐑𝐞𝐩𝐥𝐲 𝐒𝐭𝐢𝐜𝐤𝐞𝐫 𝐉𝐚𝐝𝐢 𝐁𝐮𝐠 𝐆𝐚𝐦𝐛𝐚𝐫 ]
 ╠➤𝐣𝐚𝐝𝐢𝐛𝐮𝐠𝟓 [ 𝐑𝐞𝐩𝐥𝐲 𝐆𝐚𝐦𝐛𝐚𝐫 𝐉𝐚𝐝𝐢 𝐁𝐮𝐠 𝐎𝐧𝐜𝐞 ] 
-╚════[noxa ]══════⊱
+╚════[⸸𝐚𝐧𝐠𝐠𝐚⸸ ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 ╔══════[ 𝐁𝐔𝐆 𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓 ]══════⊱
@@ -4340,12 +4344,10 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╠➤𝐛𝐮𝐠𝐛𝐜𝐯𝐢𝐝𝐞𝐨 [ 𝐁𝐮𝐠 𝐕𝐢𝐝𝐞𝐨 𝐁𝐫𝐨𝐚𝐝𝐜𝐚𝐬 ]
 ╠➤𝐛𝐮𝐠𝐛𝐜 𝐚𝐮𝐝𝐢𝐨 [ 𝐁𝐮𝐠 𝐀𝐮𝐝𝐢𝐨 𝐁𝐫𝐨𝐚𝐝𝐜𝐚𝐬𝐭 ]
 ╠➤𝐛𝐮𝐠𝐛𝐜𝐭𝐞𝐱𝐭 [ 𝐁𝐮𝐠 𝐓𝐞𝐱𝐭 𝐁𝐫𝐨𝐚𝐝𝐜𝐚𝐬𝐭 ]
-╚════[noxa ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SCnoxa`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[⸸𝐚𝐧𝐠𝐠𝐚⸸ ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SC⸸𝐚𝐧𝐠𝐠𝐚⸸`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://youtube.com/c/HwModsWa857`,
-thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 }
 }}, { quoted:m})
 }
@@ -4360,7 +4362,7 @@ var catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "productImage": messa.imageMessage,
 "productId": "449756950375071",
 "title": ` © Hay Kak ${pushname} 👋 Selamat ${salam} Apa Yang Bisa Saya Bantu 🙏`,
-"description": ` - ©noxa -
+"description": ` - ©angga -
 
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
@@ -4373,7 +4375,7 @@ SILAHKAN KETIK MENU UNTUK MENGGUNAKAN BOT LEBIB LANJUT ✌️`,
 "productImageCount": 1,
 "firstImageId": 1,
 "salePriceAmount1000": "10000000",
-"retailerId": `©noxa WE ARE NOT MASTOD`,
+"retailerId": `©angga WE ARE NOT MASTOD`,
 "url": "Wa.me/6285714170944"
 },
 "businessOwnerJid": "6285714170944@s.whatsapp.net",
@@ -4387,7 +4389,7 @@ case 'soundbot': {
 if (isBan) throw sticBanLu(from)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╔══════[ SOUNDBOT MENU ]══════⊱ 
-╠➤kal
+╠➤angga
 ╠➤ngakak
 ╠➤ketawa
 ╠➤awkwk
@@ -4399,8 +4401,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤cantik
 ╠➤kesel
 ╠➤ngeselin
-╚════[noxa ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SCnoxa`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[𝐚𝐧𝐠𝐠𝐚 ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SCangga`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
@@ -4435,8 +4437,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤heleh
 ╠➤holoh
 ╠➤delttt]
-╚════[noxa ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SCnoxa`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[𝐚𝐧𝐠𝐠𝐚 ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SCangga`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
@@ -4480,8 +4482,8 @@ nomorhoki
 ╠➤masasubur
 ╠➤zodiak
 ╠➤shio
-╚════[noxa ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SCnoxa`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[angga ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SCangga`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
@@ -4499,8 +4501,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤alquran
 ╠➤juzamma
 ╠➤tafsirsurah
-╚════[noxa ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SCnoxa`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[angga ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SCangga`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
@@ -4529,8 +4531,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤antara-news
 ╠➤cnn-news
 ╠➤fajar-news
-╚════[noxa ]══════⊱ `,
-contextInfo:{"externalAdReply": {"title": `SCnoxa`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[angga ]══════⊱ `,
+contextInfo:{"externalAdReply": {"title": `SCangga`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
@@ -4567,8 +4569,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤getpic
 ╠➤penjara
 ╠➤intro
-╚════[noxa ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SCnoxa`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[angga ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SCangga`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
@@ -4593,8 +4595,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤robot
 ╠➤slow
 ╠➤tupai
-╚════[noxa ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SCnoxa`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[angga ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SCangga`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
@@ -4609,7 +4611,7 @@ if (isBan) throw sticBanLu(from)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `
  *[ 🌷 ] Asupan Mata* 
 bokep`,
-contextInfo:{"externalAdReply": {"title": `SCnoxa`,"body": `Selamat ${salam} kak ${pushname}`,
+contextInfo:{"externalAdReply": {"title": `SCangga`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
@@ -4629,8 +4631,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤wikimedia [query]
 ╠➤ringtone [query]
 ╠➤searchgroups [query]
-╚════[noxa ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SCnoxa`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[angga ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SCangga`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
@@ -4662,8 +4664,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤styletext
 ╠➤smeme
 ╠➤ss [url]
-╚════[noxa ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SCnoxa`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[angga ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SCangga`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
@@ -4681,8 +4683,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤listcmd
 ╠➤delcmd
 ╠➤lockcmd
-╚════[noxa ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SCnoxa`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[angga ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SCangga`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
@@ -4698,7 +4700,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 *[ 🌷 ] Download Menu* 
 pinterestdl [url]
 mediafire [url]`,
-contextInfo:{"externalAdReply": {"title": `SCnoxa`,"body": `Selamat ${salam} kak ${pushname}`,
+contextInfo:{"externalAdReply": {"title": `SCangga`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
@@ -4732,8 +4734,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤listgc
 ╠➤listonline
 ╠➤speedtest
-╚════[noxa ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SCnoxa`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[angga ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SCangga`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
@@ -4782,8 +4784,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤darkjoke
 ╠➤meme
 ╠➤meme2
-╚════[noxa ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SCnoxa`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[angga ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SCangga`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
@@ -4959,8 +4961,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤noxasound159
 ╠➤noxasound160
 ╠➤noxasound161
-╚════[noxa ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SCnoxa`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[angga ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SCangga`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
